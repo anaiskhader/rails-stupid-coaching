@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+.couleur-perso {
+  background-color: #FEFDE1;
+}
+
+.btn {
+  color: white;
+}
